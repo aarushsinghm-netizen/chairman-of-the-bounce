@@ -1,0 +1,122 @@
+[
+  {
+    "file": "assets/openmoji/chair.svg",
+    "author": "OpenMoji contributors",
+    "title": "OpenMoji chair (1FA91)",
+    "source": "https://github.com/hfg-gmuend/openmoji",
+    "download": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1FA91.svg",
+    "license": "CC-BY-SA-4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Unmodified SVG; scaled and rotated at runtime.",
+    "sha256": "f96416e824ac9e0333f62fd6833835f81b9881a68a2eae34ebe5e90d5e46d43d",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/twemoji/duck.svg",
+    "author": "Twitter and Twemoji contributors",
+    "title": "Twemoji duck (1F986)",
+    "source": "https://github.com/twitter/twemoji",
+    "download": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f986.svg",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Unmodified SVG; scaled at runtime.",
+    "sha256": "74114f0e02acbd2a91b55f72e597c27d5c8da1fe2d03910ccd17a5180102c89b",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/twemoji/coffee.svg",
+    "author": "Twitter and Twemoji contributors",
+    "title": "Twemoji hot beverage (2615)",
+    "source": "https://github.com/twitter/twemoji",
+    "download": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2615.svg",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Unmodified SVG; scaled/rotated at runtime.",
+    "sha256": "8b8afd8f60833ca51907899d4a3279cdfd355282858ba8a73cd1034d2a1e31ff",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/twemoji/trophy.svg",
+    "author": "Twitter and Twemoji contributors",
+    "title": "Twemoji trophy (1F3C6)",
+    "source": "https://github.com/twitter/twemoji",
+    "download": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3c6.svg",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Unmodified SVG; scaled at runtime.",
+    "sha256": "7510cc92013c2cd6c8271e3435539d9870044945e4a50151a50b18e61ee4ba83",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/kenney/floor.png",
+    "author": "Kenney",
+    "title": "Scribble Platformer / PNG/Default/tile_top.png",
+    "source": "https://kenney.nl/assets/scribble-platformer",
+    "download": "https://kenney.nl/assets/scribble-platformer",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Renamed from tile_top.png; original PNG bytes unchanged.",
+    "sha256": "0b225dbdc263c3fbc5c32cb6d773ebf49033e824363fb01ffd1a7948c31805ff",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/kenney/block.png",
+    "author": "Kenney",
+    "title": "Scribble Platformer / PNG/Default/tile_crate.png",
+    "source": "https://kenney.nl/assets/scribble-platformer",
+    "download": "https://kenney.nl/assets/scribble-platformer",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Renamed from tile_crate.png; original PNG bytes unchanged; stretched at runtime.",
+    "sha256": "ef9c5a61ae098aedc08cd6e48a0680d26b574d3b37706bbd9e3a40ab0fdcc25a",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/audio/impact.ogg",
+    "author": "Kenney",
+    "title": "Impact Sounds / Audio/impactWood_medium_000.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "download": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Renamed; OGG unchanged; pitch varied at runtime.",
+    "sha256": "1723a9fd25103ed41af06054814e84e65f4a772bac86ab2dc927da93d9592ff5",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/audio/happy-loop.mp3",
+    "author": "wipics",
+    "title": "Happy Loop",
+    "source": "https://opengameart.org/content/happy-loop",
+    "download": "https://opengameart.org/sites/default/files/happy%20loop_0.mp3",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Unmodified MP3; restarted on completion.",
+    "sha256": "7b6e22617a7a21121ce5a81b4d6cc66390d8d0e7b660bdf0f5be4f8a09af5f4e",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/gameicons/return.svg",
+    "author": "Lorc",
+    "title": "Backup icon",
+    "source": "https://game-icons.net/1x1/lorc/backup.html",
+    "download": "https://game-icons.net/icons/000000/transparent/1x1/lorc/backup.svg",
+    "license": "CC-BY-3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "Unmodified SVG; scaled at runtime. Icons made by Lorc.",
+    "sha256": "bf83b6fc8e6739dfbffda2ba02ddd427bce729e79bc313863771a7167c2f9135",
+    "downloaded": "2026-11-15"
+  },
+  {
+    "file": "assets/font/PatrickHand-Regular.ttf",
+    "author": "Patrick Wagesreiter",
+    "title": "Patrick Hand",
+    "source": "https://github.com/google/fonts/tree/main/ofl/patrickhand",
+    "download": "https://raw.githubusercontent.com/google/fonts/main/ofl/patrickhand/PatrickHand-Regular.ttf",
+    "license": "OFL-1.1",
+    "license_url": "https://openfontlicense.org/",
+    "changes": "Unmodified TTF.",
+    "sha256": "0f173b3e6cb6d1af25babf7f0057c5ac4ee11f9992b0469bb817e967ef4ad0fc",
+    "downloaded": "2026-11-15"
+  }
+]
